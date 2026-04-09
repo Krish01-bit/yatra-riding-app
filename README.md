@@ -66,7 +66,7 @@ Drivers can see **high demand zones** on the map to position themselves strategi
 
 ## Live Map & Demand Heatmap
 
-![Live Map](assets/screenshots/map.png)
+![Live Map](assets/Screenshots/map.png)
 
 Displays live driver locations and demand zones to guide driver positioning.
 
@@ -74,7 +74,7 @@ Displays live driver locations and demand zones to guide driver positioning.
 
 ## Ride Monitoring & Fare Breakdown
 
-![Ride Interface](assets/screenshots/rider.png)
+![Ride Interface](assets/Screenshots/rider.png)
 
 Shows active ride status, SOS emergency option, and fare calculation including pickup compensation.
 
@@ -82,7 +82,7 @@ Shows active ride status, SOS emergency option, and fare calculation including p
 
 ## Driver Dashboard
 
-![Driver Dashboard](assets/screenshots/driver.png)
+![Driver Dashboard](assets/Screenshots/driver.png)
 
 Drivers can:
 
