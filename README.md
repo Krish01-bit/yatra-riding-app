@@ -115,15 +115,15 @@ Drivers can:
 
 ---
 
-# System Architecture
+## System Architecture
 
-User Interface (React + Tailwind)
-        ↓
-Application Logic
-        ↓
-Map Integration (Leaflet + OpenStreetMap)
-        ↓
-Ride Fare & Compensation Engine
+- **User Interface** — React + Tailwind CSS  
+          ↓  
+- **Application Logic**  
+          ↓  
+- **Map Integration** — Leaflet + OpenStreetMap  
+          ↓  
+- **Ride Fare & Compensation Engine**
 
 
 This architecture enables the system to manage **ride flow, driver locations, and fare rules efficiently**.
