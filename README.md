@@ -117,13 +117,12 @@ Drivers can:
 
 # System Architecture
 
-
 User Interface (React + Tailwind)
-↓
+        ↓
 Application Logic
-↓
+        ↓
 Map Integration (Leaflet + OpenStreetMap)
-↓
+        ↓
 Ride Fare & Compensation Engine
 
 
